@@ -1,0 +1,3640 @@
+fileFormatVersion: 2
+guid: c4fc7da57d49cba4398b17e746ab2195
+timeCreated: 1509418251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rainbow_dash_0
+    21300002: rainbow_dash_1
+    21300004: rainbow_dash_2
+    21300006: rainbow_dash_3
+    21300008: rainbow_dash_4
+    21300010: rainbow_dash_5
+    21300012: rainbow_dash_6
+    21300014: rainbow_dash_7
+    21300016: rainbow_dash_8
+    21300018: rainbow_dash_9
+    21300020: rainbow_dash_10
+    21300022: rainbow_dash_11
+    21300024: rainbow_dash_12
+    21300026: rainbow_dash_13
+    21300028: rainbow_dash_14
+    21300030: rainbow_dash_15
+    21300032: rainbow_dash_16
+    21300034: rainbow_dash_17
+    21300036: rainbow_dash_18
+    21300038: rainbow_dash_19
+    21300040: rainbow_dash_20
+    21300042: rainbow_dash_21
+    21300044: rainbow_dash_22
+    21300046: rainbow_dash_23
+    21300048: rainbow_dash_24
+    21300050: rainbow_dash_25
+    21300052: rainbow_dash_26
+    21300054: rainbow_dash_27
+    21300056: rainbow_dash_28
+    21300058: rainbow_dash_29
+    21300060: rainbow_dash_30
+    21300062: rainbow_dash_31
+    21300064: rainbow_dash_32
+    21300066: rainbow_dash_33
+    21300068: rainbow_dash_34
+    21300070: rainbow_dash_35
+    21300072: rainbow_dash_36
+    21300074: rainbow_dash_37
+    21300076: rainbow_dash_38
+    21300078: rainbow_dash_39
+    21300080: rainbow_dash_40
+    21300082: rainbow_dash_41
+    21300084: rainbow_dash_42
+    21300086: rainbow_dash_43
+    21300088: rainbow_dash_44
+    21300090: rainbow_dash_45
+    21300092: rainbow_dash_46
+    21300094: rainbow_dash_47
+    21300096: rainbow_dash_48
+    21300098: rainbow_dash_49
+    21300100: rainbow_dash_50
+    21300102: rainbow_dash_51
+    21300104: rainbow_dash_52
+    21300106: rainbow_dash_53
+    21300108: rainbow_dash_54
+    21300110: rainbow_dash_55
+    21300112: rainbow_dash_56
+    21300114: rainbow_dash_57
+    21300116: rainbow_dash_58
+    21300118: rainbow_dash_59
+    21300120: rainbow_dash_60
+    21300122: rainbow_dash_61
+    21300124: rainbow_dash_62
+    21300126: rainbow_dash_63
+    21300128: rainbow_dash_64
+    21300130: rainbow_dash_65
+    21300132: rainbow_dash_66
+    21300134: rainbow_dash_67
+    21300136: rainbow_dash_68
+    21300138: rainbow_dash_69
+    21300140: rainbow_dash_70
+    21300142: rainbow_dash_71
+    21300144: rainbow_dash_72
+    21300146: rainbow_dash_73
+    21300148: rainbow_dash_74
+    21300150: rainbow_dash_75
+    21300152: rainbow_dash_76
+    21300154: rainbow_dash_77
+    21300156: rainbow_dash_78
+    21300158: rainbow_dash_79
+    21300160: rainbow_dash_80
+    21300162: rainbow_dash_81
+    21300164: rainbow_dash_82
+    21300166: rainbow_dash_83
+    21300168: rainbow_dash_84
+    21300170: rainbow_dash_85
+    21300172: rainbow_dash_86
+    21300174: rainbow_dash_87
+    21300176: rainbow_dash_88
+    21300178: rainbow_dash_89
+    21300180: rainbow_dash_90
+    21300182: rainbow_dash_91
+    21300184: rainbow_dash_92
+    21300186: rainbow_dash_93
+    21300188: rainbow_dash_94
+    21300190: rainbow_dash_95
+    21300192: rainbow_dash_96
+    21300194: rainbow_dash_97
+    21300196: rainbow_dash_98
+    21300198: rainbow_dash_99
+    21300200: rainbow_dash_100
+    21300202: rainbow_dash_101
+    21300204: rainbow_dash_102
+    21300206: rainbow_dash_103
+    21300208: rainbow_dash_104
+    21300210: rainbow_dash_105
+    21300212: rainbow_dash_106
+    21300214: rainbow_dash_107
+    21300216: rainbow_dash_108
+    21300218: rainbow_dash_109
+    21300220: rainbow_dash_110
+    21300222: rainbow_dash_111
+    21300224: rainbow_dash_112
+    21300226: rainbow_dash_113
+    21300228: rainbow_dash_114
+    21300230: rainbow_dash_115
+    21300232: rainbow_dash_116
+    21300234: rainbow_dash_117
+    21300236: rainbow_dash_118
+    21300238: rainbow_dash_119
+    21300240: rainbow_dash_120
+    21300242: rainbow_dash_121
+    21300244: rainbow_dash_122
+    21300246: rainbow_dash_123
+    21300248: rainbow_dash_124
+    21300250: rainbow_dash_125
+    21300252: rainbow_dash_126
+    21300254: rainbow_dash_127
+    21300256: rainbow_dash_128
+    21300258: rainbow_dash_129
+    21300260: rainbow_dash_130
+    21300262: rainbow_dash_131
+    21300264: rainbow_dash_132
+    21300266: rainbow_dash_133
+    21300268: rainbow_dash_134
+    21300270: rainbow_dash_135
+    21300272: rainbow_dash_136
+    21300274: rainbow_dash_137
+    21300276: rainbow_dash_138
+    21300278: rainbow_dash_139
+    21300280: rainbow_dash_140
+    21300282: rainbow_dash_141
+    21300284: rainbow_dash_142
+    21300286: rainbow_dash_143
+    21300288: rainbow_dash_144
+    21300290: rainbow_dash_145
+    21300292: rainbow_dash_146
+    21300294: rainbow_dash_147
+    21300296: rainbow_dash_148
+    21300298: rainbow_dash_149
+    21300300: rainbow_dash_150
+    21300302: rainbow_dash_151
+    21300304: rainbow_dash_152
+    21300306: rainbow_dash_153
+    21300308: rainbow_dash_154
+    21300310: rainbow_dash_155
+    21300312: rainbow_dash_156
+    21300314: rainbow_dash_157
+    21300316: rainbow_dash_158
+    21300318: rainbow_dash_159
+    21300320: rainbow_dash_160
+    21300322: rainbow_dash_161
+    21300324: rainbow_dash_162
+    21300326: rainbow_dash_163
+    21300328: rainbow_dash_164
+    21300330: rainbow_dash_165
+    21300332: rainbow_dash_166
+    21300334: rainbow_dash_167
+    21300336: rainbow_dash_168
+    21300338: rainbow_dash_169
+    21300340: rainbow_dash_170
+    21300342: rainbow_dash_171
+    21300344: rainbow_dash_172
+    21300346: rainbow_dash_173
+    21300348: rainbow_dash_174
+    21300350: rainbow_dash_flying_01
+    21300352: rainbow_dash_flying_02
+    21300354: rainbow_dash_flying_03
+    21300356: rainbow_dash_flying_04
+    21300358: rainbow_dash_flying_05
+    21300360: rainbow_dash_flying_06
+    21300362: rainbow_dash_181
+    21300364: rainbow_dash_182
+    21300366: rainbow_dash_183
+    21300368: rainbow_dash_184
+    21300370: rainbow_dash_185
+    21300372: rainbow_dash_186
+    21300374: rainbow_dash_187
+    21300376: rainbow_dash_188
+    21300378: rainbow_dash_189
+    21300380: rainbow_dash_190
+    21300382: rainbow_dash_191
+    21300384: rainbow_dash_192
+    21300386: rainbow_dash_193
+    21300388: rainbow_dash_194
+    21300390: rainbow_dash_195
+    21300392: rainbow_dash_196
+    21300394: rainbow_dash_197
+    21300396: rainbow_dash_198
+    21300398: rainbow_dash_199
+    21300400: rainbow_dash_200
+    21300402: rainbow_dash_201
+    21300404: rainbow_dash_202
+    21300406: rainbow_dash_203
+    21300408: rainbow_dash_204
+    21300410: rainbow_dash_205
+    21300412: rainbow_dash_206
+    21300414: rainbow_dash_207
+    21300416: rainbow_dash_208
+    21300418: rainbow_dash_209
+    21300420: rainbow_dash_210
+    21300422: rainbow_dash_211
+    21300424: rainbow_dash_212
+    21300426: rainbow_dash_213
+    21300428: rainbow_dash_214
+    21300430: rainbow_dash_215
+    21300432: rainbow_dash_216
+    21300434: rainbow_dash_217
+    21300436: rainbow_dash_218
+    21300438: rainbow_dash_219
+    21300440: rainbow_dash_220
+    21300442: rainbow_dash_221
+    21300444: rainbow_dash_222
+    21300446: rainbow_dash_223
+    21300448: rainbow_dash_224
+    21300450: rainbow_dash_225
+    21300452: rainbow_dash_226
+    21300454: rainbow_dash_227
+    21300456: rainbow_dash_228
+    21300458: rainbow_dash_229
+    21300460: rainbow_dash_230
+    21300462: rainbow_dash_231
+    21300464: rainbow_dash_232
+    21300466: rainbow_dash_233
+    21300468: rainbow_dash_234
+    21300470: rainbow_dash_235
+    21300472: rainbow_dash_236
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rainbow_dash_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1067
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1064
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1067
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1067
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1064
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1054
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1054
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1054
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1054
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1064
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1054
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1054
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_12
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1054
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 970
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 970
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 970
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 970
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 970
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 970
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_19
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 967
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_20
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 971
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_21
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 970
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_22
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 967
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_23
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 973
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_24
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 970
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_25
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 971
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_26
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 971
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_27
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 971
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_28
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 971
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_29
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 971
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_30
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 971
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_31
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 973
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_32
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 973
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_33
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 971
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_34
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 973
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_35
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 973
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_36
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 973
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_37
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 968
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_38
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 968
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_39
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 968
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_40
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 968
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_41
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 968
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_42
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 968
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 870
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 873
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 869
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 870
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 873
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_48
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 869
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_49
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 867
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_50
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 876
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_51
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 870
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_52
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 867
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_53
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 876
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_54
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 870
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_55
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 876
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_56
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 877
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_57
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 876
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_58
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 876
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_59
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 878
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_60
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 876
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_61
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 876
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_62
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 883
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_63
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 880
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_64
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 877
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_65
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 883
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_66
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 877
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_67
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 874
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_68
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 876
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_69
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 873
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_70
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 874
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_71
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 876
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_72
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 873
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 779
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_74
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 779
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 786
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 783
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_77
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 780
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_78
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 780
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_79
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 781
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_80
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 783
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_81
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 781
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_82
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 780
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_83
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 784
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_84
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 781
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_85
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 781
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_86
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 781
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_87
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 784
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_88
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 786
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_89
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 783
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_90
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 783
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_91
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 781
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_92
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 783
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_93
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 780
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_94
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 779
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_95
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 779
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_96
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 781
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_97
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 781
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_98
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 776
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_99
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 776
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_100
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 777
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_101
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 781
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_102
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 781
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_103
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 680
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_104
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 683
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 684
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_106
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 683
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_107
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 682
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_108
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 679
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_109
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 679
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_110
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 682
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_111
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 683
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_112
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 683
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_113
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 680
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_114
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 679
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_115
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 683
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_116
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 684
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_117
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 686
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_118
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 686
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_119
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 683
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_120
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 683
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_121
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 684
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_122
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 686
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_123
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 689
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_124
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 687
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_125
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 686
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_126
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 683
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_127
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 680
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_128
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 683
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_129
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 684
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_130
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 683
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_131
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 682
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_132
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 679
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 587
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_134
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 589
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 591
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_136
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 590
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 589
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_138
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 586
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_139
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 587
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_140
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 590
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_141
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 589
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_142
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 587
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_143
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 589
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_144
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 586
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_145
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 593
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_146
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 596
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_147
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 597
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_148
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 596
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_149
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 594
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_150
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 593
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_151
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 593
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_152
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 596
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_153
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 594
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_154
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 593
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_155
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 596
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_156
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 593
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_157
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 587
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_158
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 589
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_159
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 591
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_160
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 590
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_161
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 589
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_162
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 586
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_163
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 496
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_164
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 499
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_165
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 496
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_166
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 496
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_167
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 497
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_168
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 496
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_169
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 493
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_170
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 496
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 496
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_172
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 494
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_173
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 494
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_174
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 492
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_flying_01
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 503
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_flying_02
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 506
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_flying_03
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 507
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_flying_04
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 499
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_flying_05
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 504
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_flying_06
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 503
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_181
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 499
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_182
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 500
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_183
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 503
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_184
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 496
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_185
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 499
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_186
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 497
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_187
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 497
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_188
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 499
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_189
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 501
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_190
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 499
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_191
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 499
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_192
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 496
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_193
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 395
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_194
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 395
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_195
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 392
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_196
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 395
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_197
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 403
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_198
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 407
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_199
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 399
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_200
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 402
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_201
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 396
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_202
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 395
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_203
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 309
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_204
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 295
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_205
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 303
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_206
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 289
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_207
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 306
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_208
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 295
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_209
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 306
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_210
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 293
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_211
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 300
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_212
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 296
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_213
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_214
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 202
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_215
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 202
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_216
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 202
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_217
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 202
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_218
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 202
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_219
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 202
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_220
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 202
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_221
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 202
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_222
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 202
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_223
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 203
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_224
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 203
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_225
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 203
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_226
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 202
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_227
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 106
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_228
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_229
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 106
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_230
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 106
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_231
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 106
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_232
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 108
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_233
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_234
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_235
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rainbow_dash_236
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

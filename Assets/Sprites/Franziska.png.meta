@@ -1,0 +1,1961 @@
+fileFormatVersion: 2
+guid: 2d06c6922c817f442a699a69046f194e
+timeCreated: 1509392619
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Franziska-clean_0
+    21300002: Franziska-clean_1
+    21300004: Franziska-clean_2
+    21300006: Franziska-clean_3
+    21300008: Franziska-clean_4
+    21300010: Franziska-clean_5
+    21300012: Franziska-clean_6
+    21300014: Franziska-clean_7
+    21300016: Franziska-clean_8
+    21300018: Franziska-clean_9
+    21300020: Franziska-clean_10
+    21300022: Franziska-clean_11
+    21300024: Franziska-clean_12
+    21300026: Franziska-clean_13
+    21300028: Franziska-clean_14
+    21300030: Franziska-clean_15
+    21300032: Franziska-clean_16
+    21300034: Franziska-clean_17
+    21300036: Franziska-clean_18
+    21300038: Franziska-clean_19
+    21300040: Franziska-clean_20
+    21300042: Franziska-clean_21
+    21300044: Franziska-clean_22
+    21300046: Franziska-clean_23
+    21300048: Franziska-clean_24
+    21300050: Franziska-clean_25
+    21300052: Franziska-clean_26
+    21300054: Franziska-clean_27
+    21300056: Franziska-clean_28
+    21300058: Franziska-clean_29
+    21300060: Franziska-clean_30
+    21300062: Franziska-clean_31
+    21300064: Franziska-clean_32
+    21300066: Franziska-clean_33
+    21300068: Franziska-clean_34
+    21300070: Franziska-clean_35
+    21300072: Franziska-clean_36
+    21300074: Franziska-clean_37
+    21300076: Franziska-clean_38
+    21300078: Franziska-clean_39
+    21300080: Franziska-clean_40
+    21300082: Franziska-clean_41
+    21300084: Franziska-clean_42
+    21300086: Franziska-clean_43
+    21300088: Franziska-clean_44
+    21300090: Franziska-clean_45
+    21300092: Franziska-clean_46
+    21300094: Franziska-clean_47
+    21300096: Franziska-clean_48
+    21300098: Franziska-clean_49
+    21300100: Franziska-clean_50
+    21300102: Franziska-clean_51
+    21300104: Franziska-clean_52
+    21300106: Franziska-clean_53
+    21300108: Franziska-clean_54
+    21300110: Franziska-clean_55
+    21300112: Franziska-clean_56
+    21300114: Franziska-clean_57
+    21300116: Franziska-clean_58
+    21300118: Franziska-clean_59
+    21300120: Franziska-clean_60
+    21300122: Franziska-clean_61
+    21300124: Franziska-clean_62
+    21300126: Franziska-clean_63
+    21300128: Franziska-clean_64
+    21300130: Franziska-clean_65
+    21300132: Franziska-clean_66
+    21300134: Franziska-clean_67
+    21300136: Franziska-clean_68
+    21300138: Franziska-clean_69
+    21300140: Franziska-clean_70
+    21300142: Franziska-clean_71
+    21300144: Franziska-clean_72
+    21300146: Franziska-clean_73
+    21300148: Franziska-clean_74
+    21300150: Franziska-clean_75
+    21300152: Franziska-clean_76
+    21300154: Franziska-clean_77
+    21300156: Franziska-clean_78
+    21300158: Franziska-clean_79
+    21300160: Franziska-clean_80
+    21300162: Franziska-clean_81
+    21300164: Franziska-clean_82
+    21300166: Franziska-clean_83
+    21300168: Franziska-clean_84
+    21300170: Franziska-clean_85
+    21300172: Franziska-clean_86
+    21300174: Franziska-clean_87
+    21300176: Franziska-clean_88
+    21300178: Franziska-clean_89
+    21300180: Franziska-clean_90
+    21300182: Franziska-clean_91
+    21300184: Franziska-clean_92
+    21300186: Franziska-clean_93
+    21300188: Franziska-clean_94
+    21300190: Franziska-clean_95
+    21300192: Franziska-clean_96
+    21300194: Franziska-clean_97
+    21300196: Franziska-clean_98
+    21300198: Franziska-clean_99
+    21300200: Franziska-clean_100
+    21300202: Franziska-clean_101
+    21300204: Franziska-clean_102
+    21300206: Franziska-clean_103
+    21300208: Franziska-clean_104
+    21300210: Franziska-clean_105
+    21300212: Franziska-clean_106
+    21300214: Franziska-clean_107
+    21300216: Franziska-clean_108
+    21300218: Franziska-clean_109
+    21300220: Franziska-clean_110
+    21300222: Franziska-clean_111
+    21300224: Franziska-clean_112
+    21300226: Franziska-clean_113
+    21300228: Franziska-clean_114
+    21300230: Franziska-clean_115
+    21300232: Franziska-clean_116
+    21300234: Franziska-clean_117
+    21300236: Franziska-clean_118
+    21300238: Franziska_0
+    21300240: Franziska_1
+    21300242: Franziska_2
+    21300244: Franziska_3
+    21300246: Franziska_4
+    21300248: Franziska_5
+    21300250: Franziska_6
+    21300252: Franziska_7
+    21300254: Franziska_8
+    21300256: Franziska_9
+    21300258: Franziska_10
+    21300260: Franziska_11
+    21300262: Franziska_12
+    21300264: Franziska_13
+    21300266: Franziska_14
+    21300268: Franziska_15
+    21300270: Franziska_16
+    21300272: Franziska_17
+    21300274: Franziska_18
+    21300276: Franziska_19
+    21300278: Franziska_20
+    21300280: Franziska_21
+    21300282: Franziska_22
+    21300284: Franziska_23
+    21300286: Franziska_24
+    21300288: Franziska_25
+    21300290: Franziska_stand
+    21300292: Franziska_walk_1
+    21300294: Franziska_walk_2
+    21300296: Franziska_walk_3
+    21300298: Franziska_walk_4
+    21300300: Franziska_walk_5
+    21300302: Franziska_walk_6
+    21300304: Franziska_run_1
+    21300306: Franziska_run_2
+    21300308: Franziska_run_3
+    21300310: Franziska_run_4
+    21300312: Franziska_run_5
+    21300314: Franziska_run_6
+    21300316: Franziska_39
+    21300318: Franziska_40
+    21300320: Franziska_41
+    21300322: Franziska_42
+    21300324: Franziska_43
+    21300326: Franziska_44
+    21300328: Franziska_45
+    21300330: Franziska_46
+    21300332: Franziska_47
+    21300334: Franziska_48
+    21300336: Franziska_49
+    21300338: Franziska_50
+    21300340: Franziska_51
+    21300342: Franziska_52
+    21300344: Franziska_53
+    21300346: Franziska_54
+    21300348: Franziska_55
+    21300350: Franziska_56
+    21300352: Franziska_57
+    21300354: Franziska_58
+    21300356: Franziska_59
+    21300358: Franziska_60
+    21300360: Franziska_61
+    21300362: Franziska_62
+    21300364: Franziska_63
+    21300366: Franziska_64
+    21300368: Franziska_65
+    21300370: Franziska_66
+    21300372: Franziska_67
+    21300374: Franziska_68
+    21300376: Franziska_69
+    21300378: Franziska_70
+    21300380: Franziska_71
+    21300382: Franziska_72
+    21300384: Franziska_73
+    21300386: Franziska_74
+    21300388: Franziska_75
+    21300390: Franziska_76
+    21300392: Franziska_77
+    21300394: Franziska_78
+    21300396: Franziska_79
+    21300398: Franziska_80
+    21300400: Franziska_81
+    21300402: Franziska_82
+    21300404: Franziska_83
+    21300406: Franziska_84
+    21300408: Franziska_85
+    21300410: Franziska_86
+    21300412: Franziska_87
+    21300414: Franziska_88
+    21300416: Franziska_89
+    21300418: Franziska_90
+    21300420: Franziska_attack_01
+    21300422: Franziska_attack_02
+    21300424: Franziska_attack_03
+    21300426: Franziska_attack_04
+    21300428: Franziska_attack_05
+    21300430: Franziska_attack_06
+    21300432: Franziska_attack_07
+    21300434: Franziska_attack_08
+    21300436: Franziska_attack_09
+    21300438: Franziska_100
+    21300440: Franziska_attack_11
+    21300442: Franziska_attack_12
+    21300444: Franziska_attack_13
+    21300446: Franziska_attack_14
+    21300448: Franziska_105
+    21300450: Franziska_106
+    21300452: Franziska_107
+    21300454: Franziska_108
+    21300456: Franziska_109
+    21300458: Franziska_110
+    21300460: Franziska_111
+    21300462: Franziska_112
+    21300464: Franziska_113
+    21300466: Franziska_114
+    21300468: Franziska_115
+    21300470: Franziska_116
+    21300472: Franziska_117
+    21300474: Franziska_118
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Franziska_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 796
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 796
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 798
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 798
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 796
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 798
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 798
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 796
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 798
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 800
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 796
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 798
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 800
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 701
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 701
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 701
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 703
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 704
+        width: 22
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 705
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 703
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 701
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 701
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 704
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 704
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_24
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 707
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 708
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_stand
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 607
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_walk_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 608
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_walk_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 607
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_walk_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 607
+        width: 17
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_walk_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 608
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_walk_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 608
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_walk_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 608
+        width: 18
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_run_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 607
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_run_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 607
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_run_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 608
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_run_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 608
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_run_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 608
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_run_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 609
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 513
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 516
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 516
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 513
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 513
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 516
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 514
+        width: 18
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 519
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 515
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_48
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 514
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 518
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_50
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 515
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_51
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 513
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 419
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 419
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 421
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 419
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 419
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 421
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_58
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 419
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 421
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_60
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 422
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_61
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 419
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_62
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 421
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_63
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 422
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_64
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 419
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 316
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 316
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 316
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 316
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 316
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_70
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 316
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 316
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_72
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 316
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 316
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_74
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 316
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 316
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_76
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 316
+        width: 23
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_77
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 316
+        width: 23
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_78
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 316
+        width: 23
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 216
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_80
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 216
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 216
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_82
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 216
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 216
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 216
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_87
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 215
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 215
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_89
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 215
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_90
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 215
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 115
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_02
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 115
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_03
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_04
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 116
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_05
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_06
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 115
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_07
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 115
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_08
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 110
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_09
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_100
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 115
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 112
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 110
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_attack_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 110
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_107
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_108
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 10
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_110
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_111
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_112
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 46
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_113
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_114
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 51
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_115
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_116
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 52
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_117
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Franziska_118
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
