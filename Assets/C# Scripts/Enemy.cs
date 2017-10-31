@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour {
 
+    public AudioClip audScore;
+    public AudioClip audHit;
+
     float fLifetime;
 
     // Use this for initialization
@@ -17,17 +20,19 @@ public class Enemy : MonoBehaviour {
         {
             if (Player.bAttacking)
             {
+                AudioSource.PlayClipAtPoint(audScore, this.transform.position);
                 GameController.iScore += 100;
             }
             else
             {
+                AudioSource.PlayClipAtPoint(audHit, this.transform.position);
                 GameController.iHealth -= 10;
                 // AudioSource.PlayClipAtPoint(ouchSound, this.transform.position);
             }
             GameObject.Destroy(gameObject);
         }
 
-        if (fLifetime <= Time.time)
+        if (fLifetime <= Time.time || GameController.bEnd)
         {
             GameObject.Destroy(gameObject);
         }

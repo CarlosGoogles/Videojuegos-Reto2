@@ -253,8 +253,10 @@ MonoBehaviour:
     que sirvi\xF3 para el desarrollo.\n\nEl fondo del men\xFA fue obtenido de:\nhttps://vmcdn.ca/f/files/sudbury/uploadedImages/news/localNews/2016/04/sun-clouds.jpg;w=630\n\nEl
     sprite de Franziska fue descargado de:\nhttp://spritedatabase.net/files/ds/2663/Sprite/FranziskaVonKarma.png\n\nEl
     sprite de la nube fue descargado de:\nhttp://docs.garagegames.com/tgb/official/content/documentation/Behavior%20Tutorials/images/Rainy%20Day/cloud.png\n\nEl
-    sprite de Rainbow Dash fue descargado de:\n\nLa canci\xF3n de fondo en el juego
-    fue obtenida de:\n\nLa canci\xF3n de fondo en el men\xFA fue obtenida de:\n"
+    sprite de Rainbow Dash fue descargado de:\nhttps://orig00.deviantart.net/0821/f/2011/175/6/3/rainbow_dash_sprite_by_urimas-d3fffwc.gif\n\nLa
+    canci\xF3n de fondo en el juego fue obtenida del disco: \nAce Attorney Orchestrated
+    Album ~ Attorney Meets Orchestra\n\nEl sonido del latigo fue obtenido de:\nhttp://www.court-records.net/audio.htm\n\nEl
+    fondo del juego fue obtenido de:\nhttp://vignette2.wikia.nocookie.net/aceattorney/images/e/ed/Bombed_Courtroom.png/revision/latest?cb=20130427194539"
 --- !u!222 &264636676
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -646,7 +648,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1012677777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -34, y: 191, z: 0}
+  m_LocalPosition: {x: -34, y: 186, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1806473568}
@@ -778,7 +780,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1806473564}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 508.5, y: 211, z: 0}
+  m_LocalPosition: {x: 508.5, y: 206, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 65909787}

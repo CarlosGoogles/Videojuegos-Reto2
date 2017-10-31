@@ -21,6 +21,11 @@ public class CloudGenerator : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
+        if (GameController.bEnd)
+        {
+            return;
+        }
+
         if (! bWait && fWaitTime < Time.time && GameController.iCantClouds < 20)
         {
             bWait = true;

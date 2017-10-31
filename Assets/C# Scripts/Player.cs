@@ -9,6 +9,8 @@ public class Player : MonoBehaviour {
     public static bool bAttacking = false;
     public static Rigidbody2D rgb2Player;
 
+    public AudioClip audWhip;
+
     int iDirection = -1; // 1 Left, -1 Right
     bool bRunning = false;
     float fIniTime = 0.0f;
@@ -23,6 +25,10 @@ public class Player : MonoBehaviour {
 
     // Para utilizar el componente Rigidbody y hacer sus actualizaciones en un GameObject
     void FixedUpdate() {
+        if (GameController.bEnd)
+        {
+            return;
+        }
         float fVelX = rgb2Player.velocity.x;
         float fVelY = rgb2Player.velocity.y;
 
@@ -33,6 +39,7 @@ public class Player : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.Space))
         {
+            AudioSource.PlayClipAtPoint(audWhip, this.transform.position);
             // fVelX = 0.0f;
             bAttacking = true;
             fIniTime = Time.time + fWAITATTACK;

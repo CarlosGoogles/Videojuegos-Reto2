@@ -20,6 +20,11 @@ public class EnemyGenerator : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
+        if (GameController.bEnd)
+        {
+            return;
+        }
+
         if (!bWait && fWaitTime < Time.time && GameController.iCantEnemies < 25)
         {
             bWait = true;

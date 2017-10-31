@@ -9,6 +9,7 @@ public class GameController : MonoBehaviour {
     public static int iCantEnemies;
     public static int iCantClouds;
     public static bool bPlayerIsAttacking;
+    public static bool bEnd;
 
     public GameObject[] pause;
     public GameObject[] endGame;
@@ -22,7 +23,6 @@ public class GameController : MonoBehaviour {
     int iIniTime;
     int iTime;
     bool bPause;
-    bool bEnd;
 
     // Use this for initialization
     void Start () {
@@ -45,12 +45,11 @@ public class GameController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        UpdateTime();
-        UpdateScore();
-        UpdateHealth();
-
         if (! bEnd)
         {
+            UpdateTime();
+            UpdateScore();
+            UpdateHealth();
             UpdatePause();
         }
         else
