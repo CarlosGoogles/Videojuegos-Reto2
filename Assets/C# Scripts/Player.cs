@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class Player : MonoBehaviour {
     const float fVELOCITY = 4.0f;
@@ -9,6 +10,7 @@ public class Player : MonoBehaviour {
     public static bool bAttacking = false;
     public static Rigidbody2D rgb2Player;
 
+    public GameObject gamoLeft,gamoRight;
     public AudioClip audWhip;
 
     int iDirection = -1; // 1 Left, -1 Right
@@ -77,6 +79,11 @@ public class Player : MonoBehaviour {
             bRunning = false;
         }
 
+        if (iDirection == -1 && Math.Abs(transform.position.x - gamoRight.transform.position.x) < 1.5f ||
+            iDirection == 1 && Math.Abs(transform.position.x - gamoLeft.transform.position.x) < 1.5f)
+        {
+            fVelX = 0;
+        }
         Vector2 vec2V = new Vector2(fVelX, fVelY);
         rgb2Player.velocity = vec2V;
 
