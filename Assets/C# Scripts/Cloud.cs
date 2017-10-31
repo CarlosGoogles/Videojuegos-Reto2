@@ -14,7 +14,7 @@ public class Cloud : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        fLifetime = Time.time + 10.0f;
+        fLifetime = Time.time + 8.0f;
 
         fX = transform.position.x;
         if (fX < 0)
@@ -25,14 +25,19 @@ public class Cloud : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        if (GameController.bPause)
+        {
+            return;
+        }
+
         fX += iDir * fDIF;
         Vector3 vec3V = transform.position;
         vec3V.x = fX;
         transform.position = vec3V;
 
-        Debug.Log(fLifetime + " " + Time.time);
         if (fLifetime <= Time.time || GameController.bEnd)
         {
+            GameController.iCantClouds --;
             GameObject.Destroy(gameObject);
         }
     }

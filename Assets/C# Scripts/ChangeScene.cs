@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    public static void ButtonChangeScene(string sScene)
+    public void ButtonChangeScene(string sScene)
     {
         if (sScene == "Salir")
         {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour {
     public static int iHealth;
@@ -22,14 +23,17 @@ public class GameController : MonoBehaviour {
 
     int iIniTime;
     int iTime;
-    bool bPause;
+    public static bool bPause;
 
-    // Use this for initialization
-    void Start () {
+    public void ReStart()
+    {
+        iIniTime = (int)(Time.time);
         iHealth = 100;
         iScore = 0;
         iCantEnemies = 0;
+        iCantClouds = 0;
         bPause = false;
+        bEnd = false;
 
         for (int i = 0; i < pause.Length; i++)
         {
@@ -41,6 +45,11 @@ public class GameController : MonoBehaviour {
         }
 
         randR = new System.Random();
+    }
+
+    // Use this for initialization
+    void Start () {
+        ReStart();
     }
 	
 	// Update is called once per frame
@@ -82,7 +91,8 @@ public class GameController : MonoBehaviour {
 
             if (Input.GetKey(KeyCode.M))
             {
-                ChangeScene.ButtonChangeScene("Menu");
+                ReStart();
+                SceneManager.LoadScene("Menu");
             }
             else if (Input.GetKey(KeyCode.Q))
             {
@@ -139,7 +149,8 @@ public class GameController : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.M))
         {
-            ChangeScene.ButtonChangeScene("Menu");
+            ReStart();
+            SceneManager.LoadScene("Menu");
         }
     }
 }
